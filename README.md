@@ -15,3 +15,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/4
 
 ### UC5 – Booking Request Queue  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/5
+
+### UC6 – Reservation Confirmation & Room Allocation  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/6
