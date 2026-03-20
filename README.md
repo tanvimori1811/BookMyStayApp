@@ -9,3 +9,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/2
 
 ### UC3 – Centralized Room Inventory  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/3
+
+### UC4 – Room Search & Availability  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/4
