@@ -30,3 +30,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/9
 
 UC10 – Booking Cancellation & Rollback  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/10
+
+UC11 – Concurrent Booking Simulation  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/11
