@@ -1,27 +1,33 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class RoomInventory {
 
-    private Map<String, Integer> rooms;
+    private Map<String, Integer> roomAvailability;
 
     public RoomInventory() {
-        rooms = new HashMap<>();
-        rooms.put("Single", 2);
-        rooms.put("Double", 2);
-        rooms.put("Suite", 1);
+        roomAvailability = new HashMap<>();
+
+        roomAvailability.put("Single", 5);
+        roomAvailability.put("Double", 3);
+        roomAvailability.put("Suite", 2);
     }
 
     public boolean isAvailable(String roomType) {
-        return rooms.getOrDefault(roomType, 0) > 0;
+        return roomAvailability.get(roomType) > 0;
     }
 
     public void reduceRoom(String roomType) {
-        rooms.put(roomType, rooms.get(roomType) - 1);
+        roomAvailability.put(roomType,
+                roomAvailability.get(roomType) - 1);
     }
 
-    // ✅ ADD THIS (for previous use case)
+    // ✅ REQUIRED FOR UC10
+    public void addRoom(String roomType) {
+        roomAvailability.put(roomType,
+                roomAvailability.get(roomType) + 1);
+    }
+
     public Map<String, Integer> getRoomAvailability() {
-        return rooms;
+        return roomAvailability;
     }
 }
