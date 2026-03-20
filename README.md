@@ -21,3 +21,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/6
 
 ### UC7 – Add-On Service Selection  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/7
+
+UC8 – Booking History & Reporting  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/8
