@@ -3,21 +3,24 @@ import java.util.Queue;
 
 public class BookingRequestQueue {
 
-    private Queue<Reservation> requestQueue;
+    private Queue<Reservation> queue;
 
     public BookingRequestQueue() {
-        requestQueue = new LinkedList<>();
+        queue = new LinkedList<>();
     }
 
+    // add request
     public void addRequest(Reservation reservation) {
-        requestQueue.offer(reservation);
+        queue.add(reservation);
     }
 
-    public Reservation getNextRequest() {
-        return requestQueue.poll();
+    // get request
+    public Reservation getRequest() {
+        return queue.poll(); // removes and returns
     }
 
-    public boolean hasPendingRequests() {
-        return !requestQueue.isEmpty();
+    // check empty
+    public boolean isEmpty() {
+        return queue.isEmpty();
     }
 }
