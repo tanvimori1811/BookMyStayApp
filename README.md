@@ -6,3 +6,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/1
 
 ### UC2 – Basic Room Types  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/2
+
+### UC3 – Centralized Room Inventory  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/3
