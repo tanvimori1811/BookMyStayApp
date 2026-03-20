@@ -24,3 +24,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/7
 
 UC8 – Booking History & Reporting  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/8
+
+UC9 – Error Handling & Validation  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/9
