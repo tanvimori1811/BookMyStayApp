@@ -12,3 +12,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/3
 
 ### UC4 – Room Search & Availability  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/4
+
+### UC5 – Booking Request Queue  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/5
