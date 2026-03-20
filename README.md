@@ -27,3 +27,6 @@ Link: https://github.com/tanvimori1811/BookMyStayApp/pull/8
 
 UC9 – Error Handling & Validation  
 Link: https://github.com/tanvimori1811/BookMyStayApp/pull/9
+
+UC10 – Booking Cancellation & Rollback  
+Link: https://github.com/tanvimori1811/BookMyStayApp/pull/10
